@@ -4,6 +4,10 @@ Automatic colorization of black & white photos using a 3-stage GAN pipeline buil
 
 **[LIVE →](https://ugh-colorizer.streamlit.app/)**
 
+![result](output.jpg)
+
+#  For the app visit : https://github.com/Yashas2004/Colorize_B-W_to_Color_APP-GAN-
+![pic](demo.jpg)
 ---
 
 ## How It Works
